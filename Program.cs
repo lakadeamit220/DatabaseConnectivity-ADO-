@@ -6,7 +6,7 @@ namespace DatabaseConnectivity_ADO_
     internal class Program
     {
         // Connection string to the SQL Server database
-        private static string connectionString = "Server=AMITLAKADE\\SQLEXPRESS;Database=sqldb;Trusted_Connection=True;";
+        private static string connectionString = "Server=AMITLAKADE\\;Database=;Trusted_Connection=True;";
 
         static void Main(string[] args)
         {
